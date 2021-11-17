@@ -135,3 +135,15 @@ body.on .bulb > span:nth-child(2){
 .on .switch .btn::before {
   top: 15%;
 }
+footer{
+  position: fixed;
+  bottom: 0;
+  display: block;
+  width: 100vw;
+  text-align: center;
+  background-color: #111;
+  color: #9ae6ff;
+}
+footer>i{
+  color: #f81942;
+}
